@@ -2,7 +2,12 @@
 
 ###
 
-<p align="left">My name is Arvin and I'm a Mobile Application and Technology student at Bina Nusantara University</p>
+<p align="left">
+  My name is Arvin and I'm a Mobile Application and Technology student at Bina Nusantara University.
+  <br>
+  <br>
+  🌐 <a href="https://arvinroeslim.me" target="_blank"><b>arvinroeslim.me</b></a> — Explore my portfolio and projects!
+</p>
 
 ###
 
@@ -40,6 +45,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/arvinr11/arvinr11/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/arvinr11/arvinr11/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
